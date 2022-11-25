@@ -29,6 +29,8 @@
 
 
 # real-time system experimentation
+<font color= #DCDCDC> the gif too large, load slowly!</font>
+
 ![image](figures//frontback.gif) | ![image](figures//leftright.gif) | ![image](figures//updown.gif)
 ---|---|---
 # Reference
