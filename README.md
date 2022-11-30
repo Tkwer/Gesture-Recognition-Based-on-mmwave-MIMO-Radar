@@ -15,6 +15,23 @@
 
 &emsp;&emsp;Each sample contains five features, including DT, RT, RDT, ERT, and ART feature. DT and RT features are in the format of a 64*64 2D matrix, RDT features are in the format of a 64*64*12 3D matrix, and ERT and ART features are in the format of a 91*64*12 3D matrix, and the data visualization is shown in Figure 10, where ERT, ART, and RDT are the results of multi-frame superposition. From the perspective of intuitive human-computer interaction, the following seven general gestures are designed: waving up, waving down, waving left, waving right, waving forward, waving backward, and double-tap, whose combination can realize most of the human-computer interaction actions.
 
+## Directory Structure:
+    .
+    ├── dataset                         
+        ├── dataS                         # a scene-based dataset
+        ├── dataV                         # a volunteer-based dataset
+        ├── person_11                     # additional dataset
+    ├── figures
+        ...                             # pictures
+    ├── visualization                   
+        ├── code                          # core code
+        ├── models    
+            ├── datset.py                 # loading dataset          
+            ...                           # update soon!
+        ├── gesture_icons                 # icons
+    ├── README.md
+    ├── requirements.txt
+
 ## visualization tool:
 &emsp;&emsp;The visualization tool has two panels, the first of which is extremely useful when several experiments are required. In the dataset option, you can first choose the dataset source and modify the data ratio for training tests. Then, you can choose various features and models for combination training. Third, after every epoch, the right side of the interface is dynamically updated with loss curves, accuracy curves, and confusion matrices, allowing users to view the training progress visually in real time.
 
