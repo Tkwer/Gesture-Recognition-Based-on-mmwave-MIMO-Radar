@@ -37,6 +37,7 @@
 
 ![image](figures//3.gif)|![image](figures//4.gif)
 ---|---
+
 &emsp;&emsp;The second panel is about feature formatting, which can be loaded into the dataset  by the menu in the red box, with options to easily view the results of feature visualization for each type of gesture or for each gesture.
 + Since the ART, ERT, and RDT features are similar to the video form, dynamic cycling of the features can be achieved by using the ‘auto’ button .
 + the features can be mapped to different colors.
