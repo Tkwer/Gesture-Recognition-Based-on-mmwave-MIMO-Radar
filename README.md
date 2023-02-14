@@ -11,7 +11,7 @@ password: 3nzd
 ![image](figures//1.jpg)|![image](figures//2.jpg)
 ---|---
 
-&emsp;&emsp;Each sample contains five features, including DT, RT, RDT, ERT, and ART feature. DT and RT features are in the format of a 64*64 2D matrix, RDT features are in the format of a 64*64*12 3D matrix, and ERT and ART features are in the format of a 91*64*12 3D matrix, and the data visualization is shown in Figure 10, where ERT, ART, and RDT are the results of multi-frame superposition. From the perspective of intuitive human-computer interaction, the following seven general gestures are designed: waving up, waving down, waving left, waving right, waving forward, waving backward, and double-tap, whose combination can realize most of the human-computer interaction actions.
+&emsp;&emsp;Each sample contains five features, including DT, RT, RDT, ERT, and ART feature. DT and RT features are in the format of a 64\*64 2D matrix, RDT features are in the format of a 64\*64\*12 3D matrix, and ERT and ART features are in the format of a 91\*64\*12 3D matrix, and the data visualization is shown in Figure 10, where ERT, ART, and RDT are the results of multi-frame superposition. From the perspective of intuitive human-computer interaction, the following seven general gestures are designed: waving up, waving down, waving left, waving right, waving forward, waving backward, and double-tap, whose combination can realize most of the human-computer interaction actions.
 
 ## Directory Structure:
     .
