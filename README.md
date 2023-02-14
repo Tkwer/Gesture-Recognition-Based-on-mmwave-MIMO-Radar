@@ -49,10 +49,12 @@
 ![double1](https://user-images.githubusercontent.com/25380489/218654026-fd4ca34e-8813-4396-9650-58f4bc7b792d.gif)|![double12](https://user-images.githubusercontent.com/25380489/218654041-fc0fe476-398f-4f84-b2e4-881bb35e340c.gif)
 ---|---
 
-<font color= #DCDCDC> the gif too large, load slowly!</font>
+
+<!--
 ![image](figures//frontback.gif) | ![image](figures//leftright.gif) | ![image](figures//updown.gif)
 ---|---|---
-
+-->
+<font color= #DCDCDC> watch demo video!</font>
 [![Watch the video](https://user-images.githubusercontent.com/25380489/218715123-3597a131-7953-4f3b-8984-397cc29d4e8b.jpg)](https://www.bilibili.com/video/BV1ux4y157f5/)
 # Reference
 Our artical "Motion-Direction Sensitive Features Learning for Gesture Recognition with MIMO mmWave Radar" is undergoing review. updating
