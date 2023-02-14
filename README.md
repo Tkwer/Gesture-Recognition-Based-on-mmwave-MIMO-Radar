@@ -1,4 +1,4 @@
-# MIMOGR:MIMO millimeter wave radar multi-feature dataset for gesture recognition
+# MIMOGR:MIMO Millimeter Wave Radar Multi-feature Dataset for Gesture Recognition
 
 > dataset download link: https://pan.baidu.com/s/195O5mskLnReNWdl1OvSYNg?pwd=3nzd 
 password: 3nzd 
@@ -30,7 +30,7 @@ password: 3nzd
     ├── README.md
     ├── requirements.txt
 
-## visualization tool:
+## Visualization Tool:
 &emsp;&emsp;The visualization tool has two panels, the first of which is extremely useful when several experiments are required. In the dataset option, you can first choose the dataset source and modify the data ratio for training tests. Then, you can choose various features and models for combination training. Third, after every epoch, the right side of the interface is dynamically updated with loss curves, accuracy curves, and confusion matrices, allowing users to view the training progress visually in real time.
 
 ![image](figures//3.gif)|![image](figures//4.gif)
@@ -44,7 +44,7 @@ password: 3nzd
 
 
 
-# real-time system experimentation
+## Real-time System Experimentation
 
 ![double1](https://user-images.githubusercontent.com/25380489/218654026-fd4ca34e-8813-4396-9650-58f4bc7b792d.gif)|![double12](https://user-images.githubusercontent.com/25380489/218654041-fc0fe476-398f-4f84-b2e4-881bb35e340c.gif)
 ---|---
