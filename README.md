@@ -35,14 +35,14 @@
 ## visualization tool:
 &emsp;&emsp;The visualization tool has two panels, the first of which is extremely useful when several experiments are required. In the dataset option, you can first choose the dataset source and modify the data ratio for training tests. Then, you can choose various features and models for combination training. Third, after every epoch, the right side of the interface is dynamically updated with loss curves, accuracy curves, and confusion matrices, allowing users to view the training progress visually in real time.
 
-![image](figures//3.gif)
-
+![image](figures//3.gif)|![image](figures//4.gif)
+---|---
 &emsp;&emsp;The second panel is about feature formatting, which can be loaded into the dataset  by the menu in the red box, with options to easily view the results of feature visualization for each type of gesture or for each gesture.
 + Since the ART, ERT, and RDT features are similar to the video form, dynamic cycling of the features can be achieved by using the ‘auto’ button .
 + the features can be mapped to different colors.
 + The ‘recognize’ button in Fig. 6 allows us to load our trained model and predict the gesture type corresponding to the current feature.
 
-![image](figures//4.gif)
+
 
 
 # real-time system experimentation
