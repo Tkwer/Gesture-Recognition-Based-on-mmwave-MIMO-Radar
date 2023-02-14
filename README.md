@@ -3,7 +3,7 @@
 ## dataset download link: https://pan.baidu.com/s/195O5mskLnReNWdl1OvSYNg?pwd=3nzd 
 ## password: 3nzd 
 
-<img src="figures//featureshow.png" width="300" height="450" align="middle" />
+<img src="figures//featureshow.png" width="600" height="840" align="middle" />
 
 ## Instructions: 
 &emsp;&emsp;The dataset for this procedure contains two parts: a volunteer-based dataset and a scene-based dataset(abbreviated as __*dataV*__  and __*dataS*__ ). __*dataV*__ consists of seven sets of gestures performed by each of the 10 volunteers in an ideal indoor setting. We labeled these 10 volunteers as P1 to P10, where volunteers P1-P5 were familiar with our defined gestures before the experiment, including the distance from the gesture to the radar, the amplitude and speed of the gesture, etc. During the data collection process, volunteers P1-P5 were asked to perform as many standard gestures as possible. In contrast to the first group, volunteers P6-P10 were not exposed to the system. They were only informed of the system collection process through a brief demonstration by the experimenter, and performed the gestures as naturally as possible. Although the number of volunteers involved was relatively small, we obtained a total of 6847 samples through a long collection period. __*dataS*__ mainly used to validate and improve the generalization performance of our method, consists of 2800 samples from a variety of complex environments and random users, which are closer to real applications.
