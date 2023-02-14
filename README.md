@@ -53,5 +53,6 @@
 ![image](figures//frontback.gif) | ![image](figures//leftright.gif) | ![image](figures//updown.gif)
 ---|---|---
 
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://user-images.githubusercontent.com/25380489/218715123-3597a131-7953-4f3b-8984-397cc29d4e8b.jpg))](https://www.bilibili.com/video/BV1ux4y157f5/)
 # Reference
 Our artical "Motion-Direction Sensitive Features Learning for Gesture Recognition with MIMO mmWave Radar" is undergoing review. updating
