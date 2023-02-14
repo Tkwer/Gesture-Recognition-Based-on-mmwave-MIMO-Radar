@@ -1,7 +1,7 @@
 # MIMOGR:MIMO millimeter wave radar multi-feature dataset for gesture recognition
 
-## dataset download link: https://pan.baidu.com/s/195O5mskLnReNWdl1OvSYNg?pwd=3nzd 
-## password: 3nzd 
+> dataset download link: https://pan.baidu.com/s/195O5mskLnReNWdl1OvSYNg?pwd=3nzd 
+password: 3nzd 
 
 <img src="figures//featureshow.png" width="600" height="840" align="middle" />
 
